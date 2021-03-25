@@ -40,5 +40,7 @@
         <file>virtual_dark.png</file>
         <file>settings.png</file>
         <file>settings_dark.png</file>
+        <file>storage.png</file>
+        <file>storage_dark.png</file>
     </qresource>
 </RCC>
